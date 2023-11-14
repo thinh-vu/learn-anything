@@ -96,4 +96,4 @@ THE INTRODUCTORY FLOW
 
 Since this history will be in the form of a narrative of events, it should follow the classic narrative pattern of developrnent. That is, it should begin by ==establishing for the reader the time and place of a Situation. In that Situation something will have occurred (known as the Complication) that caused hirn to raise (or would cause him to raise) the Question to which your document will give him the Answer.==
 
-This classic pattern of [[Storytelling]] ==Situation, Complication , Questions. Answer== -­ perrnits you to make sure that you and the reader are "standing in the same place" before you take him by the hand and lead him through your reasoning.
+This classic pattern of [[2023-04-17-Storytelling]] ==Situation, Complication , Questions. Answer== -­ perrnits you to make sure that you and the reader are "standing in the same place" before you take him by the hand and lead him through your reasoning.

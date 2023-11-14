@@ -30,7 +30,7 @@ banner:
 
 Talk about things in the context of the company’s mission, the executive team’s goals, and how the work you do helps with one or both.
 
-## Narrative [[storytelling]]
+## Narrative [[2023-04-17-Storytelling]]
 
 > Few people remember the statistics. Nearly everyone remembers the story. 
 

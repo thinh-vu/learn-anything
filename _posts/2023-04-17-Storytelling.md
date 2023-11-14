@@ -3,6 +3,8 @@ title : Storytelling
 permalink: /storytelling
 feed: show
 date : 17-04-2023
+banner:
+  image: https://images.unsplash.com/photo-1475483768296-6163e08872a1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 [[Communication]]
