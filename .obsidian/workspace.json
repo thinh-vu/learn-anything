@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "a1e89ea0477d582a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c714d5c96f45084",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a688bd11eae24d43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-11-14-lua-chon-nen-tang-giai-phap-digital-garden-phu-hop.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "613435e3b7b62ee6",
+    "type": "split",
+    "children": [
+      {
+        "id": "89c61b5d51913c21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89a3544ae7e7c67e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5aab821bd386159",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a63e290ec9a993ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "804415cfd1e3e680",
+    "type": "split",
+    "children": [
+      {
+        "id": "558e2c039cf4f937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ea2c5ed4e70485b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2023-11-14-lua-chon-nen-tang-giai-phap-digital-garden-phu-hop.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89fbbaf655f45754",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2023-11-14-lua-chon-nen-tang-giai-phap-digital-garden-phu-hop.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "593d0d4d84de464e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf29b2fc764f874e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2023-11-14-lua-chon-nen-tang-giai-phap-digital-garden-phu-hop.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a688bd11eae24d43",
+  "lastOpenFiles": [
+    "_posts/2017-06-10-quick-mardown-example.md",
+    "_posts/2023-11-10-huong dan dung jekyll theme yat.md",
+    "_site/jamstack/2023/11/14/lua-chon-nen-tang-giai-phap-digital-garden-phu-hop.html",
+    "_site/jamstack/2023/11/14",
+    "_site/jamstack/2023/11",
+    "_site/jamstack/2023",
+    "_site/jamstack",
+    "_posts/2023-11-14-lua-chon-nen-tang-giai-phap-digital-garden-phu-hop.md",
+    "_site/2023/11/14/2023-11-14-lua-chon-nen-tang-giai-phap-digital-garden-phu-hop.html",
+    "_site/2023/11/14",
+    "_site/2023/11"
+  ]
+}

@@ -3,7 +3,7 @@ layout: post
 title: Hướng dẫn cấu hình Jekyll theme YAT cho Blog
 subtitle: Bài viết thử đầu tiên
 author: Thinh Vu
-top: 1
+top: 2
 categories: jekyll
 tags: [guide]
 banner:

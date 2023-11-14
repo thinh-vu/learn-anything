@@ -4,6 +4,8 @@ feed: show
 date : 09-04-2023
 banner:
   image: /assets/images/banners/klaus-steinberg-508C02nhV18-unsplash.jpg
+category: parenting
+tags: [steiner waldorf, early childhood]
 ---
 
 # Book Info 📚
