@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Learn Anything Blog
+title: 🌱 Learn Anything's Garden
 email: support@thinhvu.com
 author: LEarn Anything
 
@@ -47,8 +47,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://learn-anything.online" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/jekyll-theme-yat" # the subpath of your site, e.g. /blog
+url: "https://thinh-vu.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
@@ -148,11 +148,11 @@ translate_langs:
 
 # Code badge setting
 # You can enable or disable the code badge and so on
-# code_badge:
-#   enabled: "true"
-#   color: "#fff"
-#   background_color: "#ff4e00"
-#   text_transform: "uppercase"  # ("uppercase", "lowercase", "capitalize")
+code_badge:
+  enabled: "true"
+  color: "#fff"
+  background_color: "#ff4e00"
+  text_transform: "lowercase"  # ("uppercase", "lowercase", "capitalize")
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
@@ -167,7 +167,7 @@ header_pages:
 defaults:
   home:
     heading: "Learn Anything. Anytime. Anywhere."
-    subheading: "Unlocking your potential today."
+    subheading: "Ignite Curiosity. Learn Anything!"
 #     banner: "Your image url"
 
 # Banner default settings

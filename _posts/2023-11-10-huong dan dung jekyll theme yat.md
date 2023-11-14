@@ -3,10 +3,10 @@ layout: post
 title: Hướng dẫn cấu hình jekyll theme yat
 subtitle: Bài viết thử đầu tiên
 author: Thinh Vu
+top: 1
 categories: jekyll
 tags: [guide]
-top: 1
-banner: 
+banner:
   image: /assets/images/banners/home.jpeg
 ---
 
