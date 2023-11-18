@@ -19,7 +19,17 @@ Lập trình mọi lúc, mọi nơi chỉ với một chiếc tablet là có th�
 - Viết ghi chú/blog cho trang web sử dụng JAMstack như Jekyll/Gatsby sau đó commit lên Github và publish.
 
 ### Nâng cấp
-- Nếu bạn đã sử dụng hết số giờ miễn phí và muốn gia hạn thêm thì có thể nâng cấp với giá mặc đinh $0.36/giờ (gần 9.000đ). Tham khảo pricing [tại đây]y(https://www.gitpod.io/pricing?plan=cloud)
+- Nếu bạn đã sử dụng hết số giờ miễn phí và muốn gia hạn thêm thì có thể nâng cấp với giá mặc đinh $0.36/giờ (gần 9.000đ). Tham khảo pricing [tại đây](https://www.gitpod.io/pricing?plan=cloud)
+
+### Cài đặt
+
+Để commit các thay đổi với 1 repo bất kỳ từ Gitpod, bạn cần cho phép Gitpod ghi các thay dổi lên repo public và private của mình tại mục [Integration](https://gitpod.io/user/integrations).
+
+![Cho phép Gitpod ghi các thay đổi lên repo Github](./src/gitpod_integration_cho_phep_sua_doi_repo.png)
+
+### Trải nghiệm "code"
+
+- Paste hình ảnh screenshot vào chính Code Editor y như soạn thảo với VS Code trên desktop.
 
 ## Github Codespace
 
