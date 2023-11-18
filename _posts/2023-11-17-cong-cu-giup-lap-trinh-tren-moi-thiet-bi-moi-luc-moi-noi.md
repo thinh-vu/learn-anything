@@ -2,7 +2,7 @@
 title : Công cụ lập trình Online trên mọi thiết bi
 date : 17-11-2023
 banner:
-  image: https://unsplash.com/photos/black-laptop-computer-turned-on-on-table-vpOeXr5wmR4
+  image: https://images.unsplash.com/photo-1587620962725-abab7fe55159?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 Lập trình mọi lúc, mọi nơi chỉ với một chiếc tablet là có thật. Sau đây là các công cụ tuyệt vời bạn có thể sử dụng hoàn toàn miễn phí để lập trình khi không mang theo một chiếc máy tính cá nhân tiêu chuẩn mà hoàn toàn không bị giảm đi sức mạnh.
