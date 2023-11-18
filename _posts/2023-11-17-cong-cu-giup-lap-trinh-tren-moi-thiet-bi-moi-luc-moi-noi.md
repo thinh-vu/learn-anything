@@ -9,6 +9,8 @@ Lập trình mọi lúc, mọi nơi chỉ với một chiếc tablet là có th�
 
 ## Gitpod
 
+> Môi trường lập trình hoàn chỉnh hoạt động trên mọi thiết bị thông qua trình duyệt web.
+
 ### Lợi ích tuyệt vời
 - 50 giờ lập sử dụng miễn phí mỗi tháng. Cần kết nối tài khoản Linkedin để kích hoạt ưu đãi này.
 - Môi trường lập trình hoàn hảo hỗ trợ nhiều ngôn ngữ lập trình khác nhau.
@@ -25,7 +27,7 @@ Lập trình mọi lúc, mọi nơi chỉ với một chiếc tablet là có th�
 
 Để commit các thay đổi với 1 repo bất kỳ từ Gitpod, bạn cần cho phép Gitpod ghi các thay dổi lên repo public và private của mình tại mục [Integration](https://gitpod.io/user/integrations).
 
-![Cho phép Gitpod ghi các thay đổi lên repo Github](./src/gitpod_integration_cho_phep_sua_doi_repo.png)
+![Cho phép Gitpod ghi các thay đổi lên repo Github](/src/gitpod_integration_cho_phep_sua_doi_repo.png)
 
 ### Trải nghiệm "code"
 
@@ -33,4 +35,8 @@ Lập trình mọi lúc, mọi nơi chỉ với một chiếc tablet là có th�
 
 ## Github Codespace
 
+> Github Codespace là môi trường lập trình online do Github cung cấp cho phép sẵn sàng lập trình ngay lập tức trên mọi thiết bị.
+
 ### Lợi ích tuyệt vời
+
+
