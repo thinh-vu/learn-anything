@@ -25,8 +25,6 @@ sidebar:
 
     {%- include views/article.html -%}
 
-    {% include notes_graph.html %} <!-- Show the notes graph view -->
-
     {%- assign result = hidden | where_exp: "item", "item == 'navigator'" -%}
     {%- if result.size == 0 -%}
     <div class="post-nav">
