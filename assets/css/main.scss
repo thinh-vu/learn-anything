@@ -11,9 +11,9 @@ $theme-colors: (
 
 // Default brand colors
 $brand-colors: (
-  "orangered": #1fd37c, //màu gốc #ff5100
-  "goldenyellow": #FFD700, // màu gốc #ffd700
-  "greenblue": #002E5D, // màu gốc #389092
+  "orangered": #ff5100, 
+  "goldenyellow": #ffd700, 
+  "greenblue": #389092, 
 );
 
 $theme-name: "{{ site.theme_color }}";

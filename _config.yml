@@ -70,7 +70,7 @@ content_width: "1200px"
 # enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
-sitemap: tru
+sitemap: true
 
 # If you want to change site language, you can set lang option
 lang: "vi"  # default lang is en
@@ -112,7 +112,7 @@ translate_langs:
 # spacegrey: #353535
 # snowwhite: #ffffff
 #
-# theme_color: snowwhite
+theme_color: snowwhite
 #
 # Custom color as below:
 # theme_color: "#882250"
@@ -126,7 +126,8 @@ translate_langs:
 # brand_color: orangered
 #
 # Custom color as below:
-# brand_color: "#1a8e42"
+
+brand_color: "#002E5D" # deep blue
 
 # You can custom selection style
 # selection:
@@ -144,7 +145,7 @@ translate_langs:
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-# night_mode: "auto"
+night_mode: "off"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
@@ -197,7 +198,7 @@ excerpt:
   text_size: 350          # Words default size
 
 # Pagination setting
-# paginate: 5
+paginate: 10
 
 # Photo previewer settings (PhotoSwipe 5)
 # the options please refer to: https://photoswipe.com/options/

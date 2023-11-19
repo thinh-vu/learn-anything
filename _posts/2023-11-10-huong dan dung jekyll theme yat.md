@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hướng dẫn cấu hình Jekyll theme YAT cho Blog
-subtitle: Bài viết thử đầu tiên
+subtitle: Cách thiết lập Jekyll blog như trang hiện tại
 author: Thinh Vu
 top: 2
 categories: jekyll
@@ -53,16 +53,7 @@ Bạn cũng có thể truy cập trang dự án của giao diện nguyên bản 
 - Đặt properties `sidebar: []` để ẩn TOC bên phải
 - Cấu hình sidebar tại file `article_menu` tại đường dẫn `jekyll-theme-yat\_includes\sidebar`
 - Thay đổi tên `Dark/Light` thành `Tối/Sáng` tại file `jekyll-theme-yat/_includes/extensions/theme-toggle.html`
-- Thay đổi màu sắc chủ đạo cho theme bằng CSS tại file `assets/css/main.scss`. Chỉ cần đổi mã màu, đừng đổi tên màu để tránh lỗi.
-
-```css
-// Default brand colors
-$brand-colors: (
-  "orangered": #1fd37c, //màu gốc #ff5100
-  "goldenyellow": #FFD700, // màu gốc #ffd700
-  "greenblue": #002E5D, // màu gốc #389092
-);
-```
+- Thay đổi màu sắc chủ đạo cho theme trong `_config.yml`
 
 ### Phân tích
 - Sửa đổi đoạn mã theo dõi GA thành GTM (nếu cần) tại file `jekyll-theme-yat/_includes/extensions/google-analytics.html`
