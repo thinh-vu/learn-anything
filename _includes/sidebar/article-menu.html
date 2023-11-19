@@ -14,21 +14,39 @@
 <script>
   function generateContent() {
     var menu = document.querySelector(".post-menu");
-    var menuContent =  menu.querySelector(".post-menu-content");
+    var menuContent = menu.querySelector(".post-menu-content");
     var headings = document.querySelector(".post-content").querySelectorAll("h2, h3, h4, h5, h6");
 
-    // Hide menu when no headings
     if (headings.length === 0) {
       return menu.style.display = "none";
     }
 
-    // Generate post menu
     var menuHTML = '';
-    for (var i = 0; i < headings.length; i++) {
-      var h = headings[i];
-      menuHTML += (
-        '<li class="h-' + h.tagName.toLowerCase() + '">'
-        + '<a href="#h-' + h.getAttribute('id') + '">' + h.textContent + '</a></li>');
+    var levels = [];
+
+    headings.forEach(function(h) {
+      var level = parseInt(h.tagName.substring(1)); // Get the numeric part of the heading tag (e.g., 2 for H2)
+
+      // Close higher or equal level headings
+      while (levels.length > 0 && levels[levels.length - 1] >= level) {
+        menuHTML += '</ul></li>';
+        levels.pop();
+      }
+
+      // Open new list item
+      menuHTML += '<li><a href="#' + h.getAttribute('id') + '">' + h.textContent + '</a>';
+
+      // Open a new list if the heading is of a lower level
+      if (level > (levels.length > 0 ? levels[levels.length - 1] : 0)) {
+        menuHTML += '<ul>';
+        levels.push(level);
+      }
+    });
+
+    // Close remaining opened tags
+    while (levels.length > 0) {
+      menuHTML += '</ul></li>';
+      levels.pop();
     }
 
     menuContent.innerHTML = '<ul>' + menuHTML + '</ul>';

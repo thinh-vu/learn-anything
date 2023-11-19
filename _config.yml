@@ -159,11 +159,11 @@ code_badge:
 # this and add the path to the pages in order as they should show up
 header_pages:
   - index.html
-  - title: Khóa học
-    url: https://learn-anything.vn/
   - categories.html
   - tags.html
   - archives.html
+  - title: Khóa học
+    url: https://learn-anything.vn/
   - about.html
 
 # Page default value
