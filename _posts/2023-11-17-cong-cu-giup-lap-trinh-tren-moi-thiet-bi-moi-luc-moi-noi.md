@@ -12,15 +12,18 @@ Lập trình mọi lúc, mọi nơi chỉ với một chiếc tablet là có th�
 > Môi trường lập trình hoàn chỉnh hoạt động trên mọi thiết bị thông qua trình duyệt web.
 
 ### Lợi ích tuyệt vời
+
 - 50 giờ lập sử dụng miễn phí mỗi tháng. Cần kết nối tài khoản Linkedin để kích hoạt ưu đãi này.
 - Môi trường lập trình hoàn hảo hỗ trợ nhiều ngôn ngữ lập trình khác nhau.
 - Hỗ trợ đầy đủ Terminal và IDE. Sử dụng VSCode ngay trên trình duyệt web quen thuộc.
 
 ### Ứng dụng
+
 - Lập trình
 - Viết ghi chú/blog cho trang web sử dụng JAMstack như Jekyll/Gatsby sau đó commit lên Github và publish.
 
 ### Nâng cấp
+
 - Nếu bạn đã sử dụng hết số giờ miễn phí và muốn gia hạn thêm thì có thể nâng cấp với giá mặc đinh $0.36/giờ (gần 9.000đ). Tham khảo pricing [tại đây](https://www.gitpod.io/pricing?plan=cloud)
 
 ### Cài đặt
