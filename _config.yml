@@ -200,6 +200,12 @@ excerpt:
 # Pagination setting
 paginate: 10
 
+# Add the notes graph to this theme
+collections:
+  posts:
+    output: true
+    permalink: /:slug
+
 # Photo previewer settings (PhotoSwipe 5)
 # the options please refer to: https://photoswipe.com/options/
 # photo_previewer:
