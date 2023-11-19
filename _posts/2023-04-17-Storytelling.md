@@ -25,7 +25,7 @@ Source: [Masterclass](https://www.masterclass.com/articles/writing-101-what-is-t
 
 ## Tell better stories
 
-![](src/Pasted%20image%2020230417231959.png)
+![](/assets/images/Pasted%20image%2020230417231959.png)
 
 Ogilvy said it best. ''You can’t trust what people say. So don’t just listen to what they say. Watch for how they behave.""
 
@@ -37,9 +37,9 @@ Source: [Wes_Kao](https://twitter.com/wes_kao/status/1495065668546408456)
 - Tóm tắt (Summary)
 - Suy tưởng (Reflection)
 
-![](src/Pasted%20image%2020221130051432.png)
+![](/assets/images/Pasted%20image%2020221130051432.png)
 
-![](src/Pasted%20image%2020221130051515.png)
+![](/assets/images/Pasted%20image%2020221130051515.png)
 
 ## More resources
 [How to tell great stories](https://www.julian.com/blog/storytelling)
