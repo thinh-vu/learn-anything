@@ -5,6 +5,8 @@ permalink: /digital-garden-evergreen-note-zettelkasten
 date : 10-04-2023
 banner:
   image: https://images.unsplash.com/photo-1542822192-416be3b9e479?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+category: jamstack
+tags: [jekyll, digital garden]
 ---
 
 >[[Viết là tư duy]] : Tập trung vào quá trình suy nghĩ, sử dụng ghi chú là công cụ, đầu ra của quá trình là tích luỹ kiến thức mới, không nhất thiết phải là bài nghiên cứu hay đăng blog.

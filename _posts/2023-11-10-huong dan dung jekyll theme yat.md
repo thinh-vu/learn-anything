@@ -4,8 +4,8 @@ title: Hướng dẫn cấu hình Jekyll theme YAT cho Blog
 subtitle: Bài viết thử đầu tiên
 author: Thinh Vu
 top: 2
-categories: jekyll
-tags: [guide]
+categories: jamstack
+tags: [guide, jekyll]
 banner:
   image: https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---

@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0c714d5c96f45084",
+        "id": "06ced8dee2250d29",
         "type": "tabs",
         "children": [
           {
-            "id": "a688bd11eae24d43",
+            "id": "44d88177dd45e27d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-14-lua-chon-nen-tang-giai-phap-digital-garden-phu-hop.md",
+                "file": "_posts/2017-12-15-table-example.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-14-lua-chon-nen-tang-giai-phap-digital-garden-phu-hop.md",
+                "file": "_posts/2017-12-15-table-example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-14-lua-chon-nen-tang-giai-phap-digital-garden-phu-hop.md",
+                "file": "_posts/2017-12-15-table-example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-14-lua-chon-nen-tang-giai-phap-digital-garden-phu-hop.md"
+                "file": "_posts/2017-12-15-table-example.md"
               }
             }
           }
@@ -147,22 +147,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a688bd11eae24d43",
+  "active": "44d88177dd45e27d",
   "lastOpenFiles": [
-    "_site/example/2017/12/08/mermaid-example.html",
-    "_site/example/2017/12/08",
-    "_site/example/2017/12",
-    "_site/example/2017",
-    "_site/example",
-    "_posts/2017-12-08-mermaid-example.md",
-    "_posts/2017-06-10-quick-mardown-example.md",
-    "_posts/2023-11-10-huong dan dung jekyll theme yat.md",
-    "_site/jamstack/2023/11/14/lua-chon-nen-tang-giai-phap-digital-garden-phu-hop.html",
-    "_site/jamstack/2023/11/14",
-    "_site/jamstack/2023/11",
-    "_site/jamstack/2023",
-    "_site/jamstack",
+    "_posts/2023-04-09-Đọc Nhanh, Hiểu Sâu, Nhớ Lâu Trọn Đời.md",
+    "_posts/2016-01-01-another-test-markdown.md",
+    "_posts/Xuất bản nội dung Markdown lên blog - digital garden.md",
     "_posts/2023-11-14-lua-chon-nen-tang-giai-phap-digital-garden-phu-hop.md",
-    "_site/2023/11/14/2023-11-14-lua-chon-nen-tang-giai-phap-digital-garden-phu-hop.html"
+    "_posts/2023-11-14-ben-kia-cau-vong.md",
+    "_posts/2023-04-17-Storytelling.md",
+    "_posts/2023-04-10-Digital Garden, Evergreen note và Zettelkasten.md",
+    "_posts/2023-04-17-Executive Presentation Guide.md",
+    "_posts/2023-04-10-Stop Overthinking.md",
+    "_site/digital-garden-evergreen-note-zettelkasten.html",
+    "_site/2023/11/14/2023-04-10-Digital-Garden,-Evergreen-note-và-Zettelkasten.html",
+    "_site/2023/11/14",
+    "_site/2023/11",
+    "_posts/2023-04-16-The forgetting curve.md",
+    "_posts/2023-05-22-The imperfectionists.md",
+    "_posts/2023-06-08-Tạo blog phong cách tối giản với Github Pages và Jekyll.md",
+    "_site/jamstack/2023/06/08/Tạo-blog-phong-cách-tối-giản-với-Github-Pages-và-Jekyll.html",
+    "_site/jamstack/2023/06/08",
+    "_site/jamstack/2023/06",
+    "_posts/2023-11-10-huong dan dung jekyll theme yat.md",
+    "_site/jamstack/2023/11/10/huong-dan-dung-jekyll-theme-yat.html",
+    "_site/jamstack/2023/11/10",
+    "_site/example/2017/12/08/mermaid-example.html",
+    "_posts/2017-12-08-mermaid-example.md",
+    "_posts/2017-06-10-quick-mardown-example.md"
   ]
 }
