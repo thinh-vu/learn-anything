@@ -14,7 +14,7 @@ banner:
 
 [The forgetting curve](https://e-student.org/ebbinghaus-forgetting-curve/) được Hermann Ebbinghaus giới thiệu lần đầu tiên vào năm 1885, đường biểu diễn này mô tả lượng thông tin mà chúng ta có thể ghi nhớ được sau khi tiếp nhận theo thời gian, đặc biệt, khả năng ghi nhớ suy giảm rõ rệt nhất sau 24 giờ đầu tiên. Do đó ghi chú là một trong những cách tốt nhất để giảm thiểu tình trạng "nhớ trước quên sau".
 
-![](/src/the_forgeting_curve.png)
+![](/assets/images/the_forgeting_curve.png)
 
 ---
 Source: https://e-student.org/note-taking-methods/
