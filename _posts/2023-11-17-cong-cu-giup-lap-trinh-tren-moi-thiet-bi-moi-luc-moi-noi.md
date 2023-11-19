@@ -27,7 +27,9 @@ Lập trình mọi lúc, mọi nơi chỉ với một chiếc tablet là có th�
 
 Để commit các thay đổi với 1 repo bất kỳ từ Gitpod, bạn cần cho phép Gitpod ghi các thay dổi lên repo public và private của mình tại mục [Integration](https://gitpod.io/user/integrations).
 
-![Cho phép Gitpod ghi các thay đổi lên repo Github](/src/gitpod_integration_cho_phep_sua_doi_repo.png)
+![Cho phép Gitpod ghi các thay đổi lên repo Github](src/gitpod_integration_cho_phep_sua_doi_repo.png)
+
+![Các bước cập nhật mã nguồn Github lên repo từ Gitpod](commit_code_cap_nhat_ma_nguon_len_github.png)
 
 ### Trải nghiệm "code"
 
