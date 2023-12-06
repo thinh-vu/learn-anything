@@ -10,10 +10,9 @@ banner:
 📚 Book Info
 - Author: [[Robert McLean]] [[Charles Conn]] 
 - Related: [[Bulletproof Problem Solving]] [[Read]]
-![](src/Pasted%20image%2020230522210842.png)
 
+![](../assets/images/Pasted%20image%2020230522210842.png)
 ---
-
 ## 💬 Summary
 
 ## 📒 Highlights

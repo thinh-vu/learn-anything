@@ -9,7 +9,6 @@ tags: [guide, jekyll]
 banner:
   image: https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
-
 ## Cài đặt Jekyll
 
 > Tùy chọn cài đặt Jekyll nếu bạn muốn preview trang trên máy tính cục bộ (localhost), nếu không cài trên máy sẽ khó và mất thời gian hơn chút khi tùy biến trang web. Tuy nhiên, nếu không cài m đẩy mã nguồn lên Github page vẫn có thể hiển thị website bình thường.
